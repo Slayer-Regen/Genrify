@@ -1,4 +1,4 @@
-# Music Genre Classification Django
+# Song Genre Classification Django
  Django website for predicting Genre of Music by using Machine Learning Model.
  
 # Working of website:
